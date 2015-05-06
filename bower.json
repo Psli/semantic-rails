@@ -6,8 +6,11 @@
   },
   "main": [
     "semantic.css",
+    "semantic.min.css",
     "semantic.js",
-    "fonts/*"
+    "semantic.min.js",
+    "components/*",
+    "themes/*"
   ],
   "keywords": [
     "semantic",
